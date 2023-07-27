@@ -1,0 +1,151 @@
+@font-face {
+    font-family: 'Fira Sans Condensed', sans-serif; 
+    src: url(../fonts/FiraSansCondensed-Light.ttf );
+}
+
+header ul li {
+    display: inline-block;
+    margin-left: 66px;
+    font-size: 18px;
+}
+
+header {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+ul {
+    margin: 20px
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: white;
+}
+
+.items-section {
+    margin-left: 330px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.item-wrapper {
+    margin-right: 100px;
+    border-color: white;
+    display: inline-block;;
+}
+
+.item-content {
+    border: 1px solid black;
+    display: inline-block;
+    padding:15px;
+    width:333px;
+}
+
+.item-content img {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.item-content p {
+    margin-left: 10px;
+    margin-bottom: 5px;
+    line-height: 21px;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize;
+}
+
+.item-content h4 {
+    margin-bottom: 15px;
+    margin-left: 10px;
+    line-height: 24px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    
+}
+
+.item-footer {
+    text-align: right;
+    margin-top:20px;
+    
+
+}
+
+button {
+    border:1px solid black;
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 6px 26px;
+    
+}
+
+button:hover {
+    color:white;
+    background-color: blueviolet;
+    cursor:pointer;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 150px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+
+}
+
+.container  {
+    margin-left: 500px;
+    margin-top:150px;
+    font-size: 30px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    
+}
+
+.mail {
+    color:black;
+    text-decoration: underline;
+}
+
+.address-1 {
+    font-style: normal;
+    margin:20px 0px;
+
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.paragraph-1 {
+    font-size: 30px;
+    margin-left: 400px;
+    margin-right: 800px;
+    margin-top: 150px;
+}
+
+.address-2 {
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
